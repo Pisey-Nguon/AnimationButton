@@ -10,4 +10,6 @@
 
     <color name="colorOrangeButton">#FFFDB316</color>
     <color name="colorMainBackground">#181822</color>
+
+    <color name="colorClick">#61FF0000</color>
 </resources>

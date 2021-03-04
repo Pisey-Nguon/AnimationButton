@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">AnimationButton</string>
+    <string name="codeColorClick">#61FF0000</string>
+    <string name="codeColorDefaultClick">#3B000000</string>
 </resources>
